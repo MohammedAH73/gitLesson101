@@ -1,3 +1,3 @@
 #Demo
 
-my first git version control lessons
+Hello! this is my first git version control lessons.
